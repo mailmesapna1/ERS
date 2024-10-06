@@ -22,7 +22,7 @@ MySQL or PostgreSQL
 
 # Installation
 * Clone the repository:
-git clone https://github.com/gitamandeep/ERSystem.git
+git clone https://github.com/mailmesapna1/ERS.git
 * cd ERSystem
 
 # Backend Setup:
